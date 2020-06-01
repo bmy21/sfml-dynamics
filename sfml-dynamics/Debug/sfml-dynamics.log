@@ -1,0 +1,10 @@
+﻿  Ball.cpp
+C:\Users\Ben\Documents\SFML_Projects\sfml-dynamics\sfml-dynamics\Ball.h(3,10): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  Sim.cpp
+C:\Users\Ben\Documents\SFML_Projects\sfml-dynamics\sfml-dynamics\Sim.h(3,10): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  main.cpp
+C:\Users\Ben\Documents\SFML_Projects\sfml-dynamics\sfml-dynamics\Sim.h(3,10): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  MathUtils.cpp
+  Wall.cpp
+C:\Users\Ben\Documents\SFML_Projects\sfml-dynamics\sfml-dynamics\Wall.h(3,10): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  Generating Code...
